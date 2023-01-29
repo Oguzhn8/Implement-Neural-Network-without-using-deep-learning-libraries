@@ -19,7 +19,7 @@ Since the matrices representing the data set consist of numbers between 0 and 1,
 https://medium.com/analytics-vidhya/multi-layer-perceptron-neural-network-algorithm-and-its-components-d3e997eb42bb <br/>
 https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21 <br/>
 https://machinelearningmastery.com/gradient-descent-with-momentum-from-scratch/#:~:text=Momentum%20is%20an%20extension%20to,spots%20of%20the%20search%20space. <br/>
-## PROBLEM 2: Pattern Classification with Multi Layer Perceptron
+## PROBLEM 2: IRIS Classification with Multi Layer Perceptron
 In Problem 2, the IRIS dataset classification problem, which is a frequently used dataset in machine learning problems, is discussed. Edgar Anderson collected data in 1935 to distinguish three genera of iris flowers growing on the Gaspé peninsula, and this dataset was first used by Sir Ronald Aylmer Fisher (1936) to test the success of the "Linear Discriminant Model" he developed. Later, this dataset has been frequently used in reporting the performance of classification techniques. To access the dataset and see the articles using the dataset, you can check this link: 
 http://archive.ics.uci.edu/ml/datasets/Iris <br/>
 To solve the problem, the deep learning network shown in the picture below is designed:
